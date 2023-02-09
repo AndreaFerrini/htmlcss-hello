@@ -1,0 +1,16 @@
+body {
+    background-image: url(https://media.istockphoto.com/id/1354982067/it/vettoriale/cielo-stellato-sfondo-notturno-nero-con-stella-spazio-delle-galassie-stellate-texture-a.jpg?s=612x612&w=0&k=20&c=xpnSImAE9NLZFpyk7BSZjcfjk-gN_ExuazYQ78XjoZY=);
+    box-sizing: border-box;
+    font-family:'Oswald', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: yellow;
+    font-size: 150px;
+}
+
+h3 {
+    color: yellow;
+    font-size: 75px;
+}
